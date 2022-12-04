@@ -1,4 +1,4 @@
-<h1 align="center">Timer</h1>
+<h1 align="center">Auto Message</h1>
 
 <p align="center">📱</p>
 
