@@ -8,7 +8,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-<p align="center">![interface](https://user-images.githubusercontent.com/91858793/205519072-21e9fbcc-f06d-4a50-ba0d-2b55f0c11d16.png)</p>
+![interface](https://user-images.githubusercontent.com/91858793/205519072-21e9fbcc-f06d-4a50-ba0d-2b55f0c11d16.png)
 
 ### Objetivo
 ---
